@@ -1,0 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Dongle:wght@800&family=Gasoek+One&family=Nanum+Gothic:wght@800&display=swap');
+*{
+	font-family: 'Dongle', sans-serif;
+}

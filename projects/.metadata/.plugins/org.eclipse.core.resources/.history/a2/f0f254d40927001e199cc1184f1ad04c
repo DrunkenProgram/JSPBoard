@@ -1,0 +1,9 @@
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Pen+Script&display=swap');
+.navbar{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 32px;
+}
+.container{
+	font-family: 'Nanum Pen Script', cursive;
+	font-size: 30px;
+}
