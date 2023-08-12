@@ -1,8 +1,0 @@
-@import url('https://fonts.googleapis.com/css2?family=Nanum+Gothic&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Hahmlet:wght@600&display=swap');
-*{
-	font-family: 'Nanum Gothic', sans-serif;
-}
-h1{
-	font-family: 'Hahmlet', serif;
-}
